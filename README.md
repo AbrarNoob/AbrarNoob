@@ -7,8 +7,6 @@
 
 
 ### Github Status
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbrarNoob&show_icons=true&locale=en&layout=compact&theme=light" alt="AbrarNoob" />
 </p>
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarNoob&theme=light" alt="AbrarNoob" /> 
