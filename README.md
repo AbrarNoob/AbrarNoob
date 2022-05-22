@@ -9,6 +9,5 @@
 ### Github Status
 </p>
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarNoob&theme=light" alt="AbrarNoob" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=AbrarNoob&show_icons=true&locale=en&theme=light"  alt="AbrarNoob" />
 </p>
