@@ -1,4 +1,4 @@
-<img src= "https://raw.githubusercontent.com/AbrarNoob/blah-blah/main/m9Ie58N.gif" height="300" width="800" class="center"> </h2>
+<img src= "https://raw.githubusercontent.com/AbrarNoob/blah-blah/main/m9Ie58N.gif" height="260" width="500" class="center"> </h2>
 
 ### Contacts
 -  [Telegram](https://telegram.me/AbrarNoob)
