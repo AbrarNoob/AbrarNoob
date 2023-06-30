@@ -9,4 +9,3 @@
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AbrarNoob&count_private=true&theme=blue-cyan&hide_border=true&border_radius=10&showicons=true)]()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbrarNoob&theme=blue-cyan&hide_border=true&border_radius=10&showicons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarNoob&langs_count=4&theme=blue-cyan&hide_border=true&border_radius=10)]()
